@@ -1,5 +1,4 @@
 ﻿using System;
-
 public class Program
 {
     static void Main(string[] args)
@@ -26,7 +25,7 @@ public class Program
                 }
                 else
                     Console.WriteLine("Wrong!");
-                Console.WriteLine(val);
+                //Console.WriteLine(val);
             }
             Console.WriteLine("Thank you "+name+" . You got a score of "+count+"!");
         }

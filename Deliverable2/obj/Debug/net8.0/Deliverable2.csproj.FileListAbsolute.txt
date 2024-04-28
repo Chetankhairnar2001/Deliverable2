@@ -12,3 +12,4 @@ C:\web_dev_backend\.NET Project\Deliverable2\Deliverable2\obj\Debug\net8.0\refin
 C:\web_dev_backend\.NET Project\Deliverable2\Deliverable2\obj\Debug\net8.0\Deliverable2.pdb
 C:\web_dev_backend\.NET Project\Deliverable2\Deliverable2\obj\Debug\net8.0\Deliverable2.genruntimeconfig.cache
 C:\web_dev_backend\.NET Project\Deliverable2\Deliverable2\obj\Debug\net8.0\ref\Deliverable2.dll
+C:\web_dev_backend\.NET Project\Deliverable2\Deliverable2\obj\Debug\net8.0\Deliverable2.sourcelink.json
